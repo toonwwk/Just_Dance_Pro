@@ -6,6 +6,9 @@ Kanokporn W. <br/>
 Thanut P. <br/>
 Phusita S.
 
+# Installation
+$ pip install -r requirements.txt
+
 # Gameplay
 Mode selection which player is able to should mode to play.
 ![singleMode](https://user-images.githubusercontent.com/47192653/72165610-5fc7ed80-33fa-11ea-916e-9abd4bab01d9.png)
